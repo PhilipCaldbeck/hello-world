@@ -1,2 +1,3 @@
 # hello-world
 This repository is for learning about how to use GitHub
+This is for a class I am taking at university. I have never used this software before...
